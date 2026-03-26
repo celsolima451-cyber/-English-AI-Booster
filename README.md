@@ -13,7 +13,7 @@ Este repositório apresenta um framework de **Engenharia de Prompts** projetado 
 **Prompt:** "Aja como meu chefe americano. Inicie uma conversa curta sobre o status de um projeto. Corrija meu inglês após cada frase minha e sugira termos mais profissionais."
 
 ### 2. Pílula de Vocabulário (5 min)
-**Prompt:** "Sou da área de [Sua Área]. Liste 3 termos técnicos em inglês, seus significados e uma frase de exemplo para cada. Formate em uma tabela."
+**Prompt:** "Sou da área de [Sua area] Liste 3 termos técnicos em inglês, seus significados e uma frase de exemplo para cada. Formate em uma tabela."
 
 ---
 *Projeto criado para portfólio de Engenharia de Prompts.*
